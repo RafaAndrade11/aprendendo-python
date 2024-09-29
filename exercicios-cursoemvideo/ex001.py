@@ -1,3 +1,3 @@
-#Desafio 1 - Faça o tradicional "Olá, mundo!"
+#Faça o tradicional "Olá, mundo!"
 
 print('Olá, mundo!')
