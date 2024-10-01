@@ -2,4 +2,4 @@
 
 numero = int(input('Digite um número: '))
 print ('Número escolhido: {} \n Dobro: {} \n Triplo: {} \n Raíz Quadrada: {}'
-       .format(numero, numero * 2, numero * 3, numero ** 2))
+       .format(numero, (numero * 2), (numero * 3), (numero ** (1/2))))

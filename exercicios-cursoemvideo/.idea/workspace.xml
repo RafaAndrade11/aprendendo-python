@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5d8ed9ef-6298-4432-93d6-48e221821780" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercitando.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercitando.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,10 @@
     "Python.ex011.executor": "Run",
     "Python.ex012.executor": "Run",
     "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/rafael/Desktop/ESTUDO RAFA/aprendendo-python/exercicios-cursoemvideo"
